@@ -6,3 +6,4 @@ The application provides 9 cards of exotic birds. The name of birds will be rand
  The application will keep track of the user's score and displays the highest score.
 
 
+##Link is here:[Get to know exotic bird](https://wangx733.github.io/ClickyGame/)
