@@ -1,9 +1,9 @@
 .images{
-    width:15em;
-    height:15em;
+    width:10em;
+    height:10em;
     overflow: hidden;
     display:inline-block;
-    margin:2em 2em;
+    margin:1em 1em;
     background: #FFFFFF;
     box-shadow: 2px 2px 30px -1px #9B9B9B;
     cursor: pointer;
@@ -15,4 +15,16 @@
 }
 img{
     width:120%;
+}
+.navbar{
+    position: fixed;
+    background-color: #da6d40;
+    color:white;
+    width:100%;
+    top:0;
+    text-align: center;
+    padding-left: 35vw;
+}
+.margin-top{
+    margin-top:8em;
 }

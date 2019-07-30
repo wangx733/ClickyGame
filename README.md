@@ -1,9 +1,8 @@
-#Clicky Game
- 
- The application should render different images (of your choice) to the screen. Each image should listen for click events.
+#Get to know exotic birds
 
- The application should keep track of the user's score. The user's score should be incremented when clicking an image for the first time. The user's score should be reset to 0 if they click the same image more than once.
+The application provides 9 cards of exotic birds. The name of birds will be randomly generated. Player will have to click the correspondant bird to get one score. Once the user's score is reset after an incorrect guess, the game should restart.
 
- Every time an image is clicked, the images rendered to the page should shuffle themselves in a random order.
 
- Once the user's score is reset after an incorrect guess, the game should restart.
+ The application will keep track of the user's score and displays the highest score.
+
+
